@@ -65,7 +65,7 @@
         <td width="70%"> ChatGPT-Next-Web是一款零代码快速搭建全平台智能对话中枢，无缝兼容主流大语言模型（LLM）。 </td>
     </tr>
 </table>
-<table>
+<table style="width: 100%;">
     <tr>
         <td width="15%"> <img src="icon汇总/cheer-studio.png" alt="Icon" width="64px" height="auto" /> </td>
         <td width="15%"> <a href=" 应用程序/cherry-studio/readme.md">Cherry-studio</a> </td>
@@ -234,7 +234,7 @@
         <td width="70%"> 一款支持批量生成视频字幕并提供多种字幕翻译服务的本地运行的开源工具，适合需要高效处理大量视频字幕的用户。 </td>
     </tr>
 </table>
-<table>
+<table style="width: 100%;">
     <tr>
         <td width="15%"> <img src="icon汇总/zotero.png" alt="Icon" width="64px" height="auto" /> </td>
         <td width="15%"> <a href=" 应用程序/Zotero/readme.md">Zotero</a> </td>
@@ -269,7 +269,7 @@
  </td>
     </tr>
 </table>
-<table>
+<table style="width: 100%;">
     <tr>
         <td width="15%"> <img src="icon汇总/LangBot.png" alt="Icon" width="64px" height="auto" /> </td>
         <td width="15%"> <a href="即时通讯插件/LangBot/readme.md">Langbot</a> </td>
@@ -352,7 +352,7 @@
  </td>
     </tr>
 </table>
-<table>
+<table style="width: 100%;">
     <tr>
         <td width="15%"> <img src="icon汇总/OpenAI Translator.png" alt="Icon" width="64px" height="auto" /> </td>
         <td width="15%"> <a href="浏览器插件/OpenAITranslator/readme.md">OpenAI Translator</a> </td>
