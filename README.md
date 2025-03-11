@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
 </p>
-<img src="icon汇总/火山方舟logo.jpeg" width="300" height="auto" / >
+<img src="icon汇总/方舟logo.jpeg" width="300" height="auto" / >
 </br>
 </br>
 
@@ -334,7 +334,7 @@ WordPress插件
     <tr>
         <td width="15%"> <img src="icon汇总/WPGPT.png" alt="Icon" width="64px" height="auto" /> </td>
         <td width="15%"> <a href="WordPress插件/WPGPT/readme.md">WPGPT</a> </td>
-        <td width="70%"> WPGPT 是一款专为 WordPress 用户设计的智能写作[插件](http://www.imwpweb.com/category/plugins)，它旨在帮助内容创作者、博主、站长以及企业快速生成高质量文章，大幅提升写作效率。
+        <td width="70%"> WPGPT 是一款专为 WordPress 用户设计的智能写作插件，它旨在帮助内容创作者、博主、站长以及企业快速生成高质量文章，大幅提升写作效率。
  </td>
     </tr>
 </table>
