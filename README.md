@@ -180,7 +180,7 @@
  </td>
     </tr>
     <tr>
-        <td width="15%"> <img src="icon汇总" alt="Icon" width="64px" height="auto" /> </td>
+        <td width="15%"> <img src="icon汇总/默认icon.jpeg" alt="Icon" width="64px" height="auto" /> </td>
         <td width="15%"> <a href=" 应用程序/SiriUltra/readme.md">Siri Ultra</a> </td>
         <td width="70%"> Siri Ultra 是一个能在 iPhone 上使用的 AI 聊天快捷指令，无需下载任何 App，即可体验到最新的大模型。
 
